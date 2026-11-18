@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "nova-polozka-command-set": {
+      "components": [
+        {
+          "entrypoint": "./lib/extensions/novaPolozka/NovaPolozkaCommandSet.js",
+          "manifest": "./src/extensions/novaPolozka/NovaPolozkaCommandSet.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "NovaPolozkaCommandSetStrings": "lib/extensions/novaPolozka/loc/{locale}.js"
+  }
+}
