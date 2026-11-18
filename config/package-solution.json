@@ -3,7 +3,7 @@
   "solution": {
     "name": "ota-tlacitko-client-side-solution",
     "id": "95a475ee-0cfa-4040-9995-ae6d9c03c293",
-    "version": "1.0.0.0",
+    "version": "2.0.0.0",
     "includeClientSideAssets": true,
     "skipFeatureDeployment": true,
     "developer": {
@@ -29,7 +29,7 @@
         "title": "Application Extension - Deployment of custom action",
         "description": "Deploys a custom action with ClientSideComponentId association",
         "id": "f33d269f-f560-4e4f-b9d0-657e148f019a",
-        "version": "1.0.0.0",
+        "version": "2.0.0.0",
         "assets": {
           "elementManifests": [
             "elements.xml",
